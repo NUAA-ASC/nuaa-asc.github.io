@@ -41,7 +41,7 @@ https://link.springer.com/article/10.1007/s11432-019-9922-x
 Liming Fang, Yang Li, Zhe liu, Changchun Yin, Minghui Li, Zehong Cao
 A Practical Model Based on Anomaly Detection for Protecting Medical IoT Control Services Against External Attacks
 IEEE Transactions on Industrial Informatics
-http://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/document/9146676
 
 #
 2020
@@ -76,7 +76,7 @@ https://ieeexplore.ieee.org/document/8949700
 Zhengjun Jing, Chunsheng Gu, Chunpeng Ge, Peizhong Shi
 Cryptanalysis of a Public Key Cryptosystem Based on Data Complexity under Quantum Environment
 Mobile Networks and Applications
-https://link.springer.com/chapter/10.1007/978-3-030-21373-2_32
+https://link.springer.com/content/pdf/10.1007/s11036-019-01498-y.pdf
 
 #
 2020
@@ -182,7 +182,7 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8751306
 Kui Liu, Anil Koyuncu, Dongsun Kim, Tegawendé F. Bissyandé, Jacques Klein and Yves Le Traon
 You Cannot Fix What You Cannot Find! An Investigation of Fault Localization Bias in Benchmarking Automated Program Repair Systems
 Proceedings of the 12th IEEE International Conference on Software Testing, Verification and Validation
-https://arxiv.org/abs/1812.07283
+https://ieeexplore.ieee.org/document/8730164
 
 #
 2019
@@ -266,35 +266,35 @@ https://ieeexplore.ieee.org/document/8930931
 Yu Wang, Weizhi Meng, Wenjuan Li, Zhe Liu, Yang Liu, Hanxiao Xue
 Adaptive machine learning‐based alarm reduction via edge computing for distributed intrusion detection systems
 Concurrency and Computation: Practice and Experience
-https://orbit.dtu.dk/en/publications/adaptive-machine-learning-based-alarm-reduction-via-edge-computin
+https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5101
 
 #
 2019
 Kui Liu, Anil Koyuncu, Dongsun Kim and Tegawendé F. Bissyandé
 AVATAR : Fixing Semantic Bugs with Fix Patterns of Static Analysis Violations
-Proceedings of the 26th IEEE International Conference on Software Analysis
-https://arxiv.org/abs/1812.07270
+Proceedings of the 26th IEEE International Conference on Software Analysis, Evolution and Reengineering
+https://ieeexplore.ieee.org/abstract/document/8667970/
 
 #
 2019
 Bo Zhao, Liming Fang, Hanyi Zhang, Chunpeng Ge, Weizhi Meng, Liang Liu, Chunhua Su
 Y-DWMS: A digital watermark management system based on smart contracts
 Sensors
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6679250/
+https://www.mdpi.com/1424-8220/19/14/3091
 
 #
 2019
 Liming Fang, Minghui Li, Lu Zhou, Hanyi Zhang, Chunpeng Ge
 A Fine-Grained User-Divided Privacy-Preserving Access Control Protocol in Smart Watch
 Sensors
-https://europepmc.org/article/med/31067751
+https://www.mdpi.com/1424-8220/19/9/2109
 
 #
 2019
 Liang Liu ,Zhaoyang Han, Liming Fang and Zuchao Ma
 Tell the Device Password: Smart Device Wi-Fi Connection Based on Audio Waves
 Sensors
-https://doi.org/10.3390/s19030618
+https://www.mdpi.com/1424-8220/19/3/618
 
 #
 2019
@@ -496,7 +496,7 @@ https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201706365
 2018
 Gang Wu, Meng Xiao, Jiangwei Xiao, Lin Guo, Yu Ke, Hong Li, Liming Fang, Chunlin Deng, Hua Liao
 Elastic polyurethane bearing pendant TGF-β1 affinity peptide for potential tissue engineering applications
-Mater. Sci. Eng., C
+Materials Science and Engineering: C
 https://pubmed.ncbi.nlm.nih.gov/29208289/
 
 #
