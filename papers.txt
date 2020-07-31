@@ -3,6 +3,27 @@ They are separeted by '#', and will be sorted by year
 
 #
 2020
+Haoye Tian, Kui Liu, Abdoul Kader Kaboré, Anil Koyuncu, Li Li, Jacques Klein, and Tegawendé F. Bissyandé
+Evaluating Representation Learning of Code Changes for Predicting Patch Correctness in Program Repair
+Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering
+https://
+
+#
+2020
+Dabao Wang, Kui Liu, Li Li
+On the Need of Understanding the Failures of Smart Contracts
+IEEE Software
+https://
+
+#
+2020
+Jiawei Wang, Li Li, Kui Liu, Haipeng Cai
+Exploring How Deprecated Python Library APIs are (Not) Handled
+Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+https://	
+
+#
+2020
 Chunpeng Ge, Xinshu Ma, Zhe Liu
 A semi-autonomous distributed blockchain-based framework for UAVs system
 Journal of Systems Architecture

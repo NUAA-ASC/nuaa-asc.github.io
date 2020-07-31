@@ -8,8 +8,8 @@ for paper in open('papers.txt').read().split('#'):
     content = list(filter(len, paper.split('\n')))
     if len(content) == 5:
         year, cont = int(content[0]), content[1:]
-        html = '<li>{}, <i>{},</i> <a href="{}">{}</a></li>'.format(
-            cont[0], cont[1], cont[3], cont[2])
+        html = '<li>{}, <a href="{}">{}</a>, <i>{}</i>.</li>'.format(
+            cont[0], cont[3], cont[1], cont[2])
         a[year].append(html)
 
 for year in sorted(list(a.keys()))[::-1]:
