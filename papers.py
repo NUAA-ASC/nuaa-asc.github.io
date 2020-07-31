@@ -13,7 +13,7 @@ for paper in open('papers.txt').read().split('#'):
         a[year].append(html)
 
 for year in sorted(list(a.keys()))[::-1]:
-    out += '<h3>{}</h3><ol>'.format(year) + '\n'.join(a[year]) + '</ol>'
+    out += '<h3>{}</h3><ol><table><tr><td style=''text-align:justify;''>'.format(year) + '\n'.join(a[year]) + '</td></tr></table></ol>'
 
 fp = open('publication.html', 'w')
 
